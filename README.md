@@ -9,7 +9,7 @@ I'm Shivansh  👨‍💻 , the fun-loving guy next door who also happens to be 
  
  - 🧠 In a relationship with Wi-Fi 
 - 💻 ~~Noobie~~ Competitive Programmer 
-- 🌱 Currently learning JavaScript
+- 🌱 Currently learning Deep Learning
 - 💬 Ask me about: Tech, Movies, T.v. Series
 - ⚡ Languages: C++ , Python , Javascript
 - 🎓 Sophomore at BIT Mesra , Computer Science
