@@ -18,7 +18,7 @@ I'm Shivansh  👨‍💻 , the fun-loving guy next door who also happens to be 
 - ⚡ Languages: C++ , Python , Javascript
 - 🎓 Sophomore at BIT Mesra , Computer Science
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=coastaldemigod&theme=radical&show_icons=true" alt="Shivansh's github stats" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=coastaldemigod&theme=radical&show_icons=true" alt="Shivansh's github stats" width="100%"/>
 <!--
 ### Hi there 👋
 **coastaldemigod/coastaldemigod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
