@@ -33,8 +33,16 @@
 
 <!--  <img align="center" src="https://github-readme-stats.vercel.app/api?username=coastaldemigod&theme=radical&show_icons=true" alt="Shivansh's github stats" width="100%"/> -->
 
+<a href="https://github.com/coastaldemigod">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=coastaldemigod&theme=radical&show_icons=true&hide=stars" />
+</a>
+<a href="https://github.com/coastaldemigod">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coastaldemigod&layout=compact" />
+</a>
+
+<!-- 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=coastaldemigod&theme=radical&show_icons=true&hide=stars)](https://github.com/coastaldemigod) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coastaldemigod&layout=compact)](https://github.com/coastaldemigod)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coastaldemigod&layout=compact)](https://github.com/coastaldemigod) -->
 
 <!--
 ### Hi there 👋
