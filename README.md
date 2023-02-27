@@ -21,7 +21,7 @@
 - 💻 ~~Noobie~~ Competitive Programmer 
 - 🔭 Currently working on [noobCTF](https://github.com/coastaldemigod/noobCTF)
 - 💬 Ask me about: Tech, Finance, Movies, T.V. Series
-- 🎓 Junior at BIT Mesra , Information Technology
+- 🎓 Senior at BIT Mesra , Information Technology
 
 **Languages and Tools :**
 
